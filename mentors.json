@@ -1,0 +1,18 @@
+[
+    {
+    "name":"mentor1",
+    "menteesCount":20
+    },
+    {
+    "name":"mentor2",
+    "menteesCount":15
+    },
+    {
+    "name":"mentor3",
+    "menteesCount":10
+    },
+    {
+    "name":"mentor4",
+    "menteesCount":18
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1",
+        "name": "student1",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "70%",
+        "codekata": [
+            {
+                "Input/Output": 9,
+                "Absolute Beginner": 25,
+                "Array": 60
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "student2",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "80%",
+        "codekata": [
+            {
+                "Input/Output": 5,
+                "Absolute Beginner": 28,
+                "Array": 40
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "student3",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "78%",
+        "codekata": [
+            {
+                "Input/Output": 8,
+                "Absolute Beginner": 30,
+                "Array": 55
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "student4",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "90%",
+        "codekata": [
+            {
+                "Input/Output": 10,
+                "Absolute Beginner": 29,
+                "Array": 66
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "student5",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "96%",
+        "codekata": [
+            {
+                "Input/Output": 9,
+                "Absolute Beginner": 23,
+                "Array": 30
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "student6",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "83%",
+        "codekata": [
+            {
+                "Input/Output": 6,
+                "Absolute Beginner": 27,
+                "Array": 60
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "student7",
+        "course": "Full Stack Development",
+        "batch": "B35 Weekday Tamil",
+        "attendance": "77%",
+        "codekata": [
+            {
+                "Input/Output": 8,
+                "Absolute Beginner": 29,
+                "Array": 57
+            }
+        ]
+    }
+    
+    
+]
